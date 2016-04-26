@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Print ("Hello Word");
 Print ("Hello Everybody");
 print ("new");
+print ("hello");
+print ("text");
